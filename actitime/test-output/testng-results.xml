@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-08T17:34:08 IST" name="Default suite" finished-at="2022-12-08T17:34:31 IST" duration-ms="22510">
+    <groups>
+    </groups>
+    <test started-at="2022-12-08T17:34:08 IST" name="Default test" finished-at="2022-12-08T17:34:31 IST" duration-ms="22510">
+      <class name="loginTest._3ToVerifyHomePageTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:loginTest._3ToVerifyHomePageTest@f5acb9d]" started-at="2022-12-08T17:34:08 IST" name="bsConfig" finished-at="2022-12-08T17:34:08 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:loginTest._3ToVerifyHomePageTest@f5acb9d]" started-at="2022-12-08T17:34:08 IST" name="bcConfig" finished-at="2022-12-08T17:34:22 IST" duration-ms="13787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:loginTest._3ToVerifyHomePageTest@f5acb9d]" started-at="2022-12-08T17:34:22 IST" name="bmConfig" finished-at="2022-12-08T17:34:22 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="ToVerifyHomePageTest()[pri:0, instance:loginTest._3ToVerifyHomePageTest@f5acb9d]" started-at="2022-12-08T17:34:22 IST" name="ToVerifyHomePageTest" finished-at="2022-12-08T17:34:28 IST" duration-ms="5302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToVerifyHomePageTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:loginTest._3ToVerifyHomePageTest@f5acb9d]" started-at="2022-12-08T17:34:28 IST" name="amConfig" finished-at="2022-12-08T17:34:30 IST" duration-ms="2450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:loginTest._3ToVerifyHomePageTest@f5acb9d]" started-at="2022-12-08T17:34:30 IST" name="acConfig" finished-at="2022-12-08T17:34:31 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:loginTest._3ToVerifyHomePageTest@f5acb9d]" started-at="2022-12-08T17:34:31 IST" name="asConfig" finished-at="2022-12-08T17:34:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- loginTest._3ToVerifyHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
